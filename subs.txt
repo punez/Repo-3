@@ -2,3 +2,7 @@ https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eterni
 https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/ss.txt
 https://raw.githubusercontent.com/mshojaei77/v2rayAuto/main/subs/hysteria
 https://raw.githubusercontent.com/mshojaei77/v2rayAuto/main/subs/hy2
+https://raw.githubusercontent.com/4n0nymou3/auto-warp-config/main/config.txt
+https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/main/configs.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/hysteria2.txt
+https://raw.githubusercontent.com/barry-far/V2ray-Configs/main/Splitted-By-Protocol/tuic.txt
