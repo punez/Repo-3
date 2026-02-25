@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted
 https://raw.githubusercontent.com/STR97/STRUGOV/refs/heads/main/STR.BYPASS#STR.BYPASS%F0%9F%91%BE
 https://raw.githubusercontent.com/barry-far/V2ray-Config/main/Splitted-By-Protocol/vless.txt
 https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Protocols/vless.txt
-
-
-
+https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB
+https://gist.githubusercontent.com/senatorpersian/ddb0dc4ceed582630c24ef56197d297a/raw/cb3370e2be7a72cb640d96c7b137029dc05b3739/subscription.txt
+https://gist.githubusercontent.com/senatorpersian/ddb0dc4ceed582630c24ef56197d297a/raw/7767ced7587c4f8d203de08b186606eb880f3814/subscription.txt
+https://raw.githubusercontent.com/hamedp-71/hy2/refs/heads/main/hp.txt
